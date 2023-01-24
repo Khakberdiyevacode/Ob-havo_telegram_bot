@@ -1,2 +1,2 @@
 # Ob-havo_telegram_bot
-ob-havo telegram boti
+Ushbu repazitoriyda ob-havo telegram boti kodi jamlangan
